@@ -2,6 +2,8 @@
 
 ### Copy `app/code/core/Mage/Catalog/Block/Product/List/Toolbar.php` to `app/code/local/Mage/Catalog/Block/Product/List/Toolbar.php` (create a new directory if it is not exists).
 
+#### Or simply copy the attached file and paste it into the `app/code/local/Mage/Catalog/Block/Product/List/Toolbar.php` directory (create a new directory if it is not exists).
+
 #### Open new file and look at these lines of code in around line 232
 ~~~php 
 if ($this->getCurrentOrder()) {
