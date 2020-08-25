@@ -1,6 +1,6 @@
 # New-Product-1st-on-Category-Page-Magento-1.9
 
-## Copy `app/code/core/Mage/Catalog/Block/Product/List/Toolbar.php` to `app/code/local/Mage/Catalog/Block/Product/List/Toolbar.php` (create a new directory if it is not exists).
+### Copy `app/code/core/Mage/Catalog/Block/Product/List/Toolbar.php` to `app/code/local/Mage/Catalog/Block/Product/List/Toolbar.php` (create a new directory if it is not exists).
 
 #### Open new file and look at these lines of code in around line 232
 ~~~php 
